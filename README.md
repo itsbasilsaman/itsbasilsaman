@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm **Basil Saman**
+## 👋 Hi, I'm **Basil Saman**
 
 💻 A Passionate  Full-Stack Developer 
 
