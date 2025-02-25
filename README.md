@@ -1,11 +1,11 @@
 ## 👋 Hi there, I'm **Basil Saman**
 
-💻 **A Passionate  Full-Stack Developer 
+💻 A Passionate  Full-Stack Developer 
 
  
 
  
-- ✉️ How to reach me: [Email Me](mailto:basil@example.com) | [LinkedIn](https://www.linkedin.com/in/basil-saman/)
+- ✉️ How to reach me: [Email Me](mailto:basilsaman.connects@gmail.com) | [LinkedIn](www.linkedin.com/in/itsbasilsaman)
 
  
 
