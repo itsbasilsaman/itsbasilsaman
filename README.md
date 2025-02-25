@@ -73,9 +73,8 @@
 
 ### ⚡ **Let's Connect!**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/basil-saman/)
-- 🌐 [Explore Echo](https://exploreecho.com) *(Coming Soon)*
-- 📫 [Email Me](mailto:basil@example.com)
+- 💼 [LinkedIn](www.linkedin.com/in/itsbasilsaman)
+- 📫 [Email Me](basilsaman.connects@gmail.com)
 
 ---
 
