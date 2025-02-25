@@ -1,17 +1,13 @@
 ## 👋 Hi there, I'm **Basil Saman**
 
-💻 **A Passionate MERN Full-Stack Developer** | 🚀 **Founder of Explore Echo** | 🎮 **Creator of GameGate**
+💻 **A Passionate  Full-Stack Developer 
 
----
+ 
 
-### 🚀 About Me
-
-- 🔭 Currently working on **GameGate**, a gaming e-commerce web application where users can buy and sell gaming products like gift cards, game coins, and accounts.
-- 🌱 Continuously learning **Redux Toolkit** for state management and exploring **React Native** for mobile development.
-- 💡 Interested in crafting seamless web applications with a focus on performance and user experience.
+ 
 - ✉️ How to reach me: [Email Me](mailto:basil@example.com) | [LinkedIn](https://www.linkedin.com/in/basil-saman/)
 
----
+ 
 
 ### 🌐 Languages & Technologies
 
